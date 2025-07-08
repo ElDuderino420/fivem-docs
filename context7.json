@@ -1,0 +1,23 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "FiveM Natives Documentation",
+  "description": "Comprehensive documentation for FiveM/CFX server and client-side natives, including GTA V native functions, server-specific APIs, and development resources for multiplayer modifications.",
+  "folders": [
+    "cfx-natives",
+    "natives",
+    "fivem-docs/content"
+  ],
+  "excludeFolders": [
+    "fivem-docs/node_modules",
+    "fivem-docs/themes",
+    "fivem-docs/assets",
+    "fivem-docs/static",
+    "fivem-docs/layouts"
+  ],
+  "excludeFiles": [
+    "package.json",
+    "yarn.lock",
+    "config.toml",
+    "list.json"
+  ]
+}

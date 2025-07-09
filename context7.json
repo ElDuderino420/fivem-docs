@@ -1,6 +1,6 @@
 {
   "$schema": "https://context7.com/schema/context7.json",
-  "projectTitle": "FiveM Natives Documentation",
+  "projectTitle": "FiveM Scripting Documentation",
   "description": "Comprehensive documentation for FiveM/CFX server and client-side natives, including GTA V native functions, server-specific APIs, and development resources for multiplayer modifications.",
   "folders": [
     "cfx-natives",
